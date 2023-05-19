@@ -1,8 +1,8 @@
 Pattern_Recognition_and_Machine_Learning
 
-My first attempt at problem sets from an entire book.
+My first attempt at completing a book of problem sets.
 
-Incomplete Problems:
+Incomplete:
 
 &nbsp;Chapter 6 - 6, 9, 25
   
