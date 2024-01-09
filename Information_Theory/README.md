@@ -12,13 +12,13 @@ Incomplete:
 
  Chapter 9 - 12
 
- Chapter 10 - 18. 19, 35, 39
+ Chapter 10 - 18, 19, 35, 39
 
  Chapter 11 - 55
 
  Chapter 12 - 1
 
- Chapter 15.2, 5, 12, 14
+ Chapter 15 - 2, 5, 12, 14
 
  Chapter 19 - 4
 
