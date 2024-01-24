@@ -6,5 +6,5 @@ Cite: Strogatz, Steven, author. Nonlinear Dynamics and Chaos : with Applications
 
 Incomplete:
 
- Chapter 4 - .3.10, .3.28, .6.1
+ Chapter 4 - 4.3.10, 4.3.28, 4.6.1
 
