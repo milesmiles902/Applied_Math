@@ -14,6 +14,6 @@ Incomplete:
 >Chapter 25 - 9\
 >Chapter 35 - 4\
 >Chapter 42 - 7, 9\
->Chapter 47 - 1\
+>Chapter 47 - 1
 
 Cite: MacKay, D. J. C. (2003). Information theory, inference and learning algorithms. Cambridge University Press.
