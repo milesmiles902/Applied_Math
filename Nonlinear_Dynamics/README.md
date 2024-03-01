@@ -1,6 +1,4 @@
-Nonlinear Dynamics
-
-Chapters 2.0 - 9.3:
+Nonlinear Dynamics (Chapters 2.0 - 9.3)
 
 Incomplete:
 
