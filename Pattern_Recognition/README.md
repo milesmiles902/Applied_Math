@@ -9,6 +9,6 @@ Incomplete:
 >Chapter 9 - 12\
 >Chapter 10 - 18. 19, 35, 39\
 >Chapter 12 - 2\
->Chapter 13 - 20, 29, 30, 31\
+>Chapter 13 - 20, 29, 30, 31
   
 Cite: Bishop, Christopher M. Pattern Recognition and Machine Learning. New York :Springer, 2006.
