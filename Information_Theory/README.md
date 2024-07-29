@@ -1,4 +1,4 @@
-Information Theory (Chapters 1-50)
+<ins>Information Theory (Chapters 1-50)</ins>
 
 Incomplete:
 
