@@ -1,6 +1,6 @@
-Pattern_Recognition_and_Machine_Learning
+<ins>Pattern Recognition and Machine_Learning (Chapters 1-14)</ins>
 
-My first attempt at a book of problem sets.
+A first attempt at a book.
 
 Incomplete:
 
@@ -11,4 +11,4 @@ Incomplete:
 >Chapter 12 - 2\
 >Chapter 13 - 20, 29, 30, 31
   
-Cite: Bishop, Christopher M. Pattern Recognition and Machine Learning. New York :Springer, 2006.
+Cite: Bishop, Christopher M. (2006). Pattern Recognition and Machine Learning. New York.  Springer.
