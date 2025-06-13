@@ -8,4 +8,3 @@ Incomplete:
 >Chapter 10 - 7.11 
 
 Cite: Strogatz, Steven, (2015). Nonlinear Dynamics and Chaos : with Applications to Physics, Biology, Chemistry, and Engineering. Boulder, CO.
-Incomplete:
