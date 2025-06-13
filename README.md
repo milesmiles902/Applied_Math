@@ -1,6 +1,6 @@
 <ins>Condensed Matter Field Theory (Chapter 1)</ins>
 
-Cite: Alexander Altland, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
+Cite: Atland, Alexander, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
 
 <ins>Information Theory (Chapters 1-50)</ins>
 
