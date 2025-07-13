@@ -1,10 +1,10 @@
-<ins>Condensed Matter Field Theory (Chapter 1)</ins>
+<ins>Condensed Matter Field Theory (Chapter 1-2)</ins>
 
 Cite: Atland, Alexander, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
 
 <ins>Information Theory (Chapters 1-50)</ins>
 
-Cite: MacKay, D. J. C. (2003). Information theory, inference and learning algorithms. Cambridge University Press.
+Cite: MacKay, David (2003). Information theory, inference and learning algorithms. Cambridge University Press.
 
 <ins>Nonlinear Dynamics (Chapters 2-12)</ins>
 
