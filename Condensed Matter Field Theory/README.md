@@ -2,6 +2,7 @@
 
 Incomplete:
 
->Chapter 3 - Exercise #6 (pg 117)
+>Chapter 3 - Exercise #6\
+>Chapter 5 - Exercise #10, 12
 
 Cite: Altland, Alexander, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
