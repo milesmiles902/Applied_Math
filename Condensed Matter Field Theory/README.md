@@ -6,4 +6,4 @@ Incomplete:
 >Chapter 5 - Exercise #10, 12\
 >Chapter 6 - Problem #2
 
-Cite: Altland, Alexander, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
+Cite: Altland, Alexander, Simons, Ben, (2010). Condensed Matter Field Theory, Universität zu Köln, University of Cambridge
