@@ -1,8 +1,8 @@
-<ins>Condensed Matter Field Theory (Chapter 1-12)</ins>
+<ins>Condensed Matter Field Theory (Chapters 1-12)</ins>
 
 Cite: Atland, Alexander, (2010). Condensed Matter Field Theory, Universität zu Köln, Ben D. Simons, University of Cambridge
 
-<ins>Euclidean and Non-Euclidean Geometries (Chapter 1)</ins>
+<ins>Euclidean and Non-Euclidean Geometries (Chapters 1-3)</ins>
 
 Cite: Greenberg, Martin, (1993). Euclidean and Non-Euclidean Geometries. 3rd. Edition, Development and History, W.H. Freeman and Company, New York.
 
