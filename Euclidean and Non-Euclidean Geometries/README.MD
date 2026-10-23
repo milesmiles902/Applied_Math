@@ -1,4 +1,4 @@
-<ins>Euclidean and Non-Euclidean Geometries (Chapters 1-8)</ins>
+<ins>Euclidean and Non-Euclidean Geometries (Chapters 1-9)</ins>
 
 Incomplete:
 
